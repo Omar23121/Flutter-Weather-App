@@ -58,7 +58,7 @@ weather_app/
 Follow these steps to run the project locally:
 
 1. **Clone the repository**  
- git clone: https://github.com/Omar23121/flutter-weather-app.git
+git clone: https://github.com/Omar23121/flutter-weather-app.git
 
 2. Navigate to the project folder
 cd flutter-weather-app
