@@ -72,16 +72,16 @@ flutter run
 
 ## Future Improvements
 
-Automatic weather detection using device location
+- **Automatic weather detection using device location**
 
-Multi-day weather forecast
+- **Multi-day weather forecast**
 
-Display additional data such as humidity and wind speed
+- **Display additional data such as humidity and wind speed**
 
-Dark mode support
+- **Dark mode support**
 
-Ability to save favorite cities
+- **Ability to save favorite cities**
 
-Author
+## Author
 
 Omar
