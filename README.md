@@ -84,4 +84,4 @@ flutter run
 
 ## Author
 
-Omar
+Omar Almahmoud
