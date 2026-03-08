@@ -57,22 +57,20 @@ weather_app/
 
 Follow these steps to run the project locally:
 
-1. Clone the repository  
-```bash
-git clone https://github.com/YOUR_USERNAME/flutter-weather-app.git
+1. **Clone the repository**  
+   ```bash
+  git clone https://github.com/YOUR_USERNAME/flutter-weather-app.git
 
-Navigate to the project folder
-
+2. Navigate to the project folder
 cd flutter-weather-app
 
-Install dependencies
-
+3. Install dependencies
 flutter pub get
 
-Run the application
-
+4. Run the application
 flutter run
-Future Improvements
+
+## Future Improvements
 
 Automatic weather detection using device location
 
@@ -87,7 +85,3 @@ Ability to save favorite cities
 Author
 
 Omar
-
-License
-
-This project is open-source and available under the MIT License.
